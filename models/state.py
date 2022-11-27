@@ -1,9 +1,16 @@
 #!/usr/bin/python3
-"""Module for State class."""
+"""The `state` module
 
+It defines one class, `State(),
+which sub-classes the `BaseModel()` class.`
+"""
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """Class representing a State."""
+    """A state in the application.
+
+    Attributes:
+        name
+    """
     name = ""

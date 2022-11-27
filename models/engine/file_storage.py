@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
 Module: file_storage.py
+
 Defines a `FileStorage` class.
 """
 import os

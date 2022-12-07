@@ -18,22 +18,3 @@ This Directory contains the code for the second step of this whole project: web 
 This directory contains files pertaining to the front-end side of the AirBnB clone project
 
 ---
-
-### Files in This Repository
----
-| File                   | File Hierarchy                                       | Description
-|------------------------|------------------------------------------------------|--------------------------------------|
-| `0-index.html`         | 0-index.html			                        | Displaying header and footer         |
-| `1-index.html`          | [models/amenity.py](models/amenity.py)               | The amenity subclass                 |
-
----
-
-### Technologies Used
-* Language: HTML & CSS
-* Operating System: Ubuntu 14.04 LTS (Trusty64)
-* Style: W3C - Validator
----
-
-### Authors
-
-Mitali Sengupta - [Twitter: @aadhiBangalan](https://twitter.com/aadhiBangalan)
